@@ -1,0 +1,7 @@
+C:\Users\fermi\source\repos\Final_EDATOS_Tiscornia\Final_EDATOS_Tiscornia\obj\Debug\Final_EDATOS_Tiscornia.csproj.AssemblyReference.cache
+C:\Users\fermi\source\repos\Final_EDATOS_Tiscornia\Final_EDATOS_Tiscornia\obj\Debug\Final_EDATOS_Tiscornia.csproj.CoreCompileInputs.cache
+C:\Users\fermi\source\repos\Final_EDATOS_Tiscornia\Final_EDATOS_Tiscornia\bin\Debug\Final_EDATOS_Tiscornia.exe.config
+C:\Users\fermi\source\repos\Final_EDATOS_Tiscornia\Final_EDATOS_Tiscornia\bin\Debug\Final_EDATOS_Tiscornia.exe
+C:\Users\fermi\source\repos\Final_EDATOS_Tiscornia\Final_EDATOS_Tiscornia\bin\Debug\Final_EDATOS_Tiscornia.pdb
+C:\Users\fermi\source\repos\Final_EDATOS_Tiscornia\Final_EDATOS_Tiscornia\obj\Debug\Final_EDATOS_Tiscornia.exe
+C:\Users\fermi\source\repos\Final_EDATOS_Tiscornia\Final_EDATOS_Tiscornia\obj\Debug\Final_EDATOS_Tiscornia.pdb
